@@ -118,7 +118,7 @@ export default {
         },
 		{
           "callsign": "Spirit",
-          "alias": "Doomba",
+          "alias": "Spirit",
           "code": "NZABJC",
           "corpro": "GMS",
           "frame": "Everest",
