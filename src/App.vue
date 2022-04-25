@@ -108,6 +108,22 @@ export default {
           "frame": "Sagarmatha",
           "mech": "ZWEIHÄNDER"
         },
+		{
+          "callsign": "Tarot",
+          "alias": "Mortimer Lindseth",
+          "code": "2acf63e0-aca6-4c4e-bb26-ac3ba29d2858//NDL-C-IOTA-MANTLE",
+          "corpro": "GMS",
+          "frame": "Sagarmatha",
+          "mech": "ZWEIHÄNDER"
+        },
+		{
+          "callsign": "Jestie",
+          "alias": "Lill Lefebvre",
+          "code": "826fc313-9a94-49fb-ad12-8f6457c4a6de//NDL-C-UNBENT-EYE",
+          "corpro": "GMS",
+          "frame": "Sagarmatha",
+          "mech": "ZWEIHÄNDER"
+        },
       ],
       "header": {
         "planet": "Farivius",
