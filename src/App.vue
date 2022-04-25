@@ -150,7 +150,7 @@ export default {
         },
 		{
           "callsign": "The Wall",
-          "alias": "Phil Goodman
+          "alias": "Phil Goodman",
           "code": "GCUDTH",
           "corpro": "GMS",
           "frame": "Sagarmatha",
