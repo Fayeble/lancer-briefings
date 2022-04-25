@@ -105,7 +105,7 @@ export default {
           "alias": "Lill Lefebvre",
           "code": "826fc313-9a94-49fb-ad12-8f6457c4a6de//NDL-C-UNBENT-EYE",
           "corpro": "GMS",
-          "frame": "Sagamartha",
+          "frame": "Sagarmatha",
           "mech": "ZWEIHÄNDER"
         },
       ],
