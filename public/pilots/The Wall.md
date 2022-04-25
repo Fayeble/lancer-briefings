@@ -1,0 +1,3 @@
+Phil Goodman is the current CEO and heir to the Yumcorp Biofuel Conglomerate.  Phil Goodman has been alive for over 3000 years and heading his company through what can only be described as "voodoo immortality elixir bullshit" that is kept as a strict industry secret.  He rules over the company as a friendly face that will outlive almost all of his customers, and treats employees like the ineffective flesh golems that they truly are.  Phil Goodman deep down believes that the entire world exists for the sake of his business and that anyone without anything to offer him should be executed.
+
+The pilot on your team sounds exactly like this Phil Goodman through the helmet.  The pilot on your team is not this Phil Goodman.

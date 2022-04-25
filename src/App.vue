@@ -149,9 +149,9 @@ export default {
           "mech": "CARNIVAL GAMES"
         },
 		{
-          "callsign": "Big Man",
-          "alias": "[Classified]",
-          "code": "ZUGBG7",
+          "callsign": "The Wall",
+          "alias": "Phil Goodman
+          "code": "GCUDTH",
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "BIG MECH"
