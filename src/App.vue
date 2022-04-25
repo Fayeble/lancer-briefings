@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "Claymore",
           "alias": "Lill Lefebvre",
-          "code": "826fc313-9a94-49fb-ad12-8f6457c4a6de//NDL-C-UNBENT-EYE",
+          "code": "97292V",
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "ZWEIHÄNDER"
@@ -111,18 +111,18 @@ export default {
 		{
           "callsign": "Tarot",
           "alias": "Mortimer Lindseth",
-          "code": "2acf63e0-aca6-4c4e-bb26-ac3ba29d2858//NDL-C-IOTA-MANTLE",
+          "code": "VKRV3B",
           "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "ZWEIHÄNDER"
+          "frame": "Everest",
+          "mech": "FØRECAST"
         },
 		{
           "callsign": "Jestie",
-          "alias": "Lill Lefebvre",
-          "code": "826fc313-9a94-49fb-ad12-8f6457c4a6de//NDL-C-UNBENT-EYE",
+          "alias": "Sylvie",
+          "code": "ZQIOU8",
           "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "ZWEIHÄNDER"
+          "frame": "Everest",
+          "mech": "PEQUOD"
         },
       ],
       "header": {
