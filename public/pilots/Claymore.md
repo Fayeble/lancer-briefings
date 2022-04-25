@@ -1,4 +1,4 @@
-"There's nothing much to it really. When there's nothing to live for you tend to either give up or die trying to find something worth living for." -Lill Lefebvre
+*"There's nothing much to it really. When there's nothing to live for you tend to either give up or die trying to find something worth living for."* ***-Lill Lefebvre***
 
 The [DATA EXPUNGED] family were seen as one of the last great pure houses.
 Revered for their kindness and wisdom, many followed the family into exile one day.
