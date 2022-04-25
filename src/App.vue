@@ -117,12 +117,68 @@ export default {
           "mech": "FØRECAST"
         },
 		{
+          "callsign": "Spirit",
+          "alias": "Doomba",
+          "code": "NZABJC",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "GHOST"
+        },
+		{
+          "callsign": "Recoil",
+          "alias": "Aiko Fuyukayo",
+          "code": "2VFEXU",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "BUYAN-M"
+        },
+		{
+          "callsign": "Tsuchinoko",
+          "alias": "[Classified]",
+          "code": "3WDHYE",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "STEADY ED"
+        },
+		{
+          "callsign": "Clown",
+          "alias": "Evelyn Mint",
+          "code": "4TUHB4",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "CARNIVAL GAMES"
+        },
+		{
+          "callsign": "Big Man",
+          "alias": "[Classified]",
+          "code": "ZUGBG7",
+          "corpro": "GMS",
+          "frame": "Sagarmatha",
+          "mech": "BIG MECH"
+        },
+		{
           "callsign": "Jestie",
           "alias": "Sylvie",
           "code": "ZQIOU8",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "PEQUOD"
+        },
+		{
+          "callsign": "???",
+          "alias": "???",
+          "code": "???",
+          "corpro": "GMS",
+          "frame": "???",
+          "mech": "???"
+        },
+		{
+          "callsign": "???",
+          "alias": "???",
+          "code": "???",
+          "corpro": "GMS",
+          "frame": "???",
+          "mech": "???"
         },
       ],
       "header": {
