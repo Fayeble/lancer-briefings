@@ -165,12 +165,12 @@ export default {
           "mech": "PEQUOD"
         },
 		{
-          "callsign": "???",
-          "alias": "???",
-          "code": "???",
+          "callsign": "Atlas",
+          "alias": "Dante Cavazos",
+          "code": "BDGOFX",
           "corpro": "GMS",
-          "frame": "???",
-          "mech": "???"
+          "frame": "Everest",
+          "mech": "GAEA"
         },
 		{
           "callsign": "???",
