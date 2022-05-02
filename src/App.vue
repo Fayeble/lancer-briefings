@@ -173,12 +173,12 @@ export default {
           "mech": "GAEA"
         },
 		{
-          "callsign": "???",
-          "alias": "???",
-          "code": "???",
+          "callsign": "Slick",
+          "alias": "Chance",
+          "code": "K6L773",
           "corpro": "GMS",
-          "frame": "???",
-          "mech": "???"
+          "frame": "Everest",
+          "mech": "RED RUSH"
         },
       ],
       "header": {
