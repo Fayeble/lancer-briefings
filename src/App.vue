@@ -116,14 +116,14 @@ export default {
           "frame": "Everest",
           "mech": "FØRECAST"
         },
-		{
+		/*{
           "callsign": "Spirit",
           "alias": "Spirit",
           "code": "NZABJC",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "GHOST"
-        },
+        },*/
 		{
           "callsign": "Recoil",
           "alias": "Aiko Fuyukayo",
@@ -132,7 +132,7 @@ export default {
           "frame": "Everest",
           "mech": "BUYAN-M"
         },
-		{
+		/*{
           "callsign": "Tsuchinoko",
           "alias": "[Classified]",
           "code": "3WDHYE",
@@ -171,7 +171,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "GAEA"
-        },
+        },*/
 		{
           "callsign": "Slick",
           "alias": "Chance",
