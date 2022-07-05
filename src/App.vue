@@ -190,7 +190,7 @@ export default {
         "headerTitle": "???",
         "headerSubtitle": "Startup Company",
         "subheaderTitle": "???",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Sierra-Romeo-Charlie-Tango",
       },
       "options":{
         "eventsMarkdownPerMission": true
