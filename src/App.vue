@@ -139,7 +139,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "STEADY ED"
-        },*/
+        },
 		    {
           "callsign": "Clown",
           "alias": "Evelyn Mint",
@@ -148,14 +148,14 @@ export default {
           "frame": "Everest",
           "mech": "CARNIVAL GAMES"
         },
-		    /*{
+		    {
           "callsign": "The Wall",
           "alias": "Phil Goodman",
           "code": "GCUDTH",
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "BIG MECH"
-        },
+        },*/
 		    {
           "callsign": "Jestie",
           "alias": "Sylvie",
@@ -164,7 +164,7 @@ export default {
           "frame": "Everest",
           "mech": "PEQUOD"
         },
-		    {
+		    /*{
           "callsign": "Atlas",
           "alias": "Dante Cavazos",
           "code": "BDGOFX",
@@ -190,7 +190,7 @@ export default {
         "headerTitle": "???",
         "headerSubtitle": "Startup Company",
         "subheaderTitle": "???",
-        "subheaderSubtitle": "Sierra-Romeo-Charlie-Tango-Charlie",
+        "subheaderSubtitle": "Sierra-Romeo-Juliet-Tango-Charlie",
       },
       "options":{
         "eventsMarkdownPerMission": true
