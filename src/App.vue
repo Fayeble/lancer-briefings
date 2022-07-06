@@ -108,7 +108,7 @@ export default {
           "frame": "Sagarmatha",
           "mech": "ZWEIHÄNDER"
         },
-		{
+		    {
           "callsign": "Tarot",
           "alias": "Mortimer Lindseth",
           "code": "VKRV3B",
@@ -116,7 +116,7 @@ export default {
           "frame": "Everest",
           "mech": "FØRECAST"
         },
-		/*{
+		    /*{
           "callsign": "Spirit",
           "alias": "Spirit",
           "code": "NZABJC",
@@ -124,7 +124,7 @@ export default {
           "frame": "Everest",
           "mech": "GHOST"
         },*/
-		{
+		    {
           "callsign": "Recoil",
           "alias": "Aiko Fuyukayo",
           "code": "2VFEXU",
@@ -132,15 +132,15 @@ export default {
           "frame": "Everest",
           "mech": "BUYAN-M"
         },
-		/*{
+		    /*{
           "callsign": "Tsuchinoko",
           "alias": "[Classified]",
           "code": "3WDHYE",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "STEADY ED"
-        },
-		{
+        },*/
+		    {
           "callsign": "Clown",
           "alias": "Evelyn Mint",
           "code": "4TUHB4",
@@ -148,7 +148,7 @@ export default {
           "frame": "Everest",
           "mech": "CARNIVAL GAMES"
         },
-		{
+		    /*{
           "callsign": "The Wall",
           "alias": "Phil Goodman",
           "code": "GCUDTH",
@@ -156,7 +156,7 @@ export default {
           "frame": "Sagarmatha",
           "mech": "BIG MECH"
         },
-		{
+		    {
           "callsign": "Jestie",
           "alias": "Sylvie",
           "code": "ZQIOU8",
@@ -164,7 +164,7 @@ export default {
           "frame": "Everest",
           "mech": "PEQUOD"
         },
-		{
+		    {
           "callsign": "Atlas",
           "alias": "Dante Cavazos",
           "code": "BDGOFX",
@@ -172,7 +172,7 @@ export default {
           "frame": "Everest",
           "mech": "GAEA"
         },*/
-		{
+		    {
           "callsign": "Slick",
           "alias": "Chance",
           "code": "K6L773",
