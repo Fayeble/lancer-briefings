@@ -100,7 +100,7 @@ export default {
         },
       ],
       "pilots": [
-        {
+        /*{
           "callsign": "Claymore",
           "alias": "Lill Lefebvre",
           "code": "97292V",
@@ -116,14 +116,14 @@ export default {
           "frame": "Everest",
           "mech": "FØRECAST"
         },
-		    /*{
+		    {
           "callsign": "Spirit",
           "alias": "Spirit",
           "code": "NZABJC",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "GHOST"
-        },*/
+        },
 		    {
           "callsign": "Recoil",
           "alias": "Aiko Fuyukayo",
@@ -131,8 +131,8 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "BUYAN-M"
-        },
-		    /*{
+        },*/
+		    {
           "callsign": "Tsuchinoko",
           "alias": "[Classified]",
           "code": "3WDHYE",
@@ -140,7 +140,7 @@ export default {
           "frame": "Everest",
           "mech": "STEADY ED"
         },
-		    {
+		    /*{
           "callsign": "Clown",
           "alias": "Evelyn Mint",
           "code": "4TUHB4",
@@ -155,7 +155,7 @@ export default {
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "BIG MECH"
-        },*/
+        },
 		    {
           "callsign": "Jestie",
           "alias": "Sylvie",
@@ -163,23 +163,23 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "PEQUOD"
-        },
-		    /*{
+        },*/
+		    {
           "callsign": "Atlas",
           "alias": "Dante Cavazos",
           "code": "BDGOFX",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "GAEA"
-        },*/
-		    {
+        },
+		    /*{
           "callsign": "Slick",
           "alias": "Chance",
           "code": "K6L773",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "RED RUSH"
-        },
+        },*/
       ],
       "header": {
         "planet": "Farivius",
@@ -190,7 +190,7 @@ export default {
         "headerTitle": "???",
         "headerSubtitle": "Startup Company",
         "subheaderTitle": "???",
-        "subheaderSubtitle": "Sierra-Romeo-Juliet-Tango-Charlie",
+        "subheaderSubtitle": "Tango-Alpha",
       },
       "options":{
         "eventsMarkdownPerMission": true
