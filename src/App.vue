@@ -96,7 +96,7 @@ export default {
         {
           "slug": "001",
           "name": "Dreams-of-Reclamation",
-          "status": "partial-success"
+          "status": "in-progress"
         },
         {
           "slug": "002",
