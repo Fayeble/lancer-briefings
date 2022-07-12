@@ -96,6 +96,11 @@ export default {
         {
           "slug": "001",
           "name": "Dreams-of-Reclamation",
+          "status": "partial-success"
+        },
+        {
+          "slug": "002",
+          "name": "Rustic-Ways",
           "status": "start"
         },
       ],
