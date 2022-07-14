@@ -89,17 +89,17 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001-1",
+      "mission_slug": "101",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001-1",
+          "slug": "101",
           "name": "Dreams-of-Reclamation",
           "status": "success"
         },
         {
-          "slug": "001-2",
+          "slug": "102",
           "name": "Rustic-Ways",
           "status": "success"
         },
