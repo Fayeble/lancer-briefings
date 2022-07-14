@@ -177,7 +177,7 @@ export default {
           "frame": "Everest",
           "mech": "GAEA"
         },
-		    {}
+		    {
           "callsign": "Slick",
           "alias": "Chance",
           "code": "K6L773",
