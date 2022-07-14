@@ -105,7 +105,7 @@ export default {
         },
       ],
       "pilots": [
-        /*{
+        {
           "callsign": "Claymore",
           "alias": "Lill Lefebvre",
           "code": "97292V",
@@ -136,7 +136,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "BUYAN-M"
-        },*/
+        },
 		    {
           "callsign": "Tsuchinoko",
           "alias": "[Classified]",
@@ -145,7 +145,7 @@ export default {
           "frame": "Everest",
           "mech": "STEADY ED"
         },
-		    /*{
+		    {
           "callsign": "Clown",
           "alias": "Evelyn Mint",
           "code": "4TUHB4",
@@ -168,7 +168,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "PEQUOD"
-        },*/
+        },
 		    {
           "callsign": "Atlas",
           "alias": "Dante Cavazos",
@@ -177,14 +177,14 @@ export default {
           "frame": "Everest",
           "mech": "GAEA"
         },
-		    /*{
+		    {}
           "callsign": "Slick",
           "alias": "Chance",
           "code": "K6L773",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "RED RUSH"
-        },*/
+        },
       ],
       "header": {
         "planet": "Farivius",
@@ -195,7 +195,7 @@ export default {
         "headerTitle": "???",
         "headerSubtitle": "Startup Company",
         "subheaderTitle": "???",
-        "subheaderSubtitle": "Tango-Alpha",
+        "subheaderSubtitle": "Tsuchinoko - Atlas - Spirit",
       },
       "options":{
         "eventsMarkdownPerMission": true
