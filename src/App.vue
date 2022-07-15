@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "101",
+      "mission_slug": "103",
       "current_md": "",
       "events": "",
       "missions": [
@@ -102,6 +102,11 @@ export default {
           "slug": "102",
           "name": "Rustic-Ways",
           "status": "success"
+        },
+        {
+          "slug": "103",
+          "name": "Scrap-Heap",
+          "status": "start"
         },
       ],
       "pilots": [
@@ -195,7 +200,7 @@ export default {
         "headerTitle": "???",
         "headerSubtitle": "Startup Company",
         "subheaderTitle": "???",
-        "subheaderSubtitle": "Tsuchinoko - Atlas - Spirit",
+        "subheaderSubtitle": "The Wall - Recoil - Claymore",
       },
       "options":{
         "eventsMarkdownPerMission": true
