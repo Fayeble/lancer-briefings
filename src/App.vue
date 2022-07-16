@@ -200,7 +200,7 @@ export default {
         "headerTitle": "???",
         "headerSubtitle": "Startup Company",
         "subheaderTitle": "???",
-        "subheaderSubtitle": "The Wall - Recoil - Claymore",
+        "subheaderSubtitle": "The Wall - Spirit - Recoil",
       },
       "options":{
         "eventsMarkdownPerMission": true
