@@ -106,7 +106,7 @@ export default {
         {
           "slug": "103",
           "name": "Scrap-Heap",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
