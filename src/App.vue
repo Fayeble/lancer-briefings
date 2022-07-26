@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "103",
+      "mission_slug": "201",
       "current_md": "",
       "events": "",
       "missions": [
@@ -107,6 +107,11 @@ export default {
           "slug": "103",
           "name": "Scrap-Heap",
           "status": "success"
+        },
+        {
+          "slug": "201",
+          "name": "Alpine-Hotline",
+          "status": "start"
         },
       ],
       "pilots": [
@@ -126,14 +131,14 @@ export default {
           "frame": "Everest",
           "mech": "FØRECAST"
         },
-		    {
+		    /*{
           "callsign": "Spirit",
           "alias": "Spirit",
           "code": "NZABJC",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "GHOST"
-        },
+        },*/
 		    {
           "callsign": "Recoil",
           "alias": "Aiko Fuyukayo",
@@ -142,7 +147,7 @@ export default {
           "frame": "Everest",
           "mech": "BUYAN-M"
         },
-		    {
+		    /*{
           "callsign": "Tsuchinoko",
           "alias": "[Classified]",
           "code": "3WDHYE",
@@ -173,7 +178,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "PEQUOD"
-        },
+        },*/
 		    {
           "callsign": "Atlas",
           "alias": "Dante Cavazos",
@@ -182,14 +187,14 @@ export default {
           "frame": "Everest",
           "mech": "GAEA"
         },
-		    {
+		    /*{
           "callsign": "Slick",
           "alias": "Chance",
           "code": "K6L773",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "RED RUSH"
-        },
+        },*/
       ],
       "header": {
         "planet": "Farivius",
@@ -200,7 +205,7 @@ export default {
         "headerTitle": "???",
         "headerSubtitle": "Startup Company",
         "subheaderTitle": "???",
-        "subheaderSubtitle": "The Wall - Claymore - Recoil",
+        "subheaderSubtitle": "Charlie-Alpha-Romeo-Tango",
       },
       "options":{
         "eventsMarkdownPerMission": true
