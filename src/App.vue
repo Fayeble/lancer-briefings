@@ -142,7 +142,7 @@ export default {
           "code": "NZABJC",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "GHOST"
+          "mech": "ROKO"
         },
 		    /*{
           "callsign": "Recoil",
