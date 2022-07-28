@@ -111,6 +111,11 @@ export default {
         {
           "slug": "201",
           "name": "Alpine-Hotline",
+          "status": "partial-success"
+        },
+        {
+          "slug": "202",
+          "name": "Radio-Static",
           "status": "start"
         },
       ],
@@ -123,31 +128,31 @@ export default {
           "frame": "Sagarmatha",
           "mech": "ZWEIHÄNDER"
         },
-		    {
+		    /*{
           "callsign": "Tarot",
           "alias": "Mortimer Lindseth",
           "code": "VKRV3B",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "FØRECAST"
-        },
-		    /*{
+        },*/
+		    {
           "callsign": "Spirit",
           "alias": "Spirit",
           "code": "NZABJC",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "GHOST"
-        },*/
-		    {
+        },
+		    /*{
           "callsign": "Recoil",
           "alias": "Aiko Fuyukayo",
           "code": "2VFEXU",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "BUYAN-M"
-        },
-		    /*{
+        },*/
+		    {
           "callsign": "Tsuchinoko",
           "alias": "[Classified]",
           "code": "3WDHYE",
@@ -155,7 +160,7 @@ export default {
           "frame": "Everest",
           "mech": "STEADY ED"
         },
-		    {
+		    /*{
           "callsign": "Clown",
           "alias": "Evelyn Mint",
           "code": "4TUHB4",
@@ -170,7 +175,7 @@ export default {
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "BIG MECH"
-        },
+        },*/
 		    {
           "callsign": "Jestie",
           "alias": "Sylvie",
@@ -178,8 +183,8 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "PEQUOD"
-        },*/
-		    {
+        },
+		    /*{
           "callsign": "Atlas",
           "alias": "Dante Cavazos",
           "code": "BDGOFX",
@@ -187,7 +192,7 @@ export default {
           "frame": "Everest",
           "mech": "GAEA"
         },
-		    /*{
+		    {
           "callsign": "Slick",
           "alias": "Chance",
           "code": "K6L773",
@@ -205,7 +210,7 @@ export default {
         "headerTitle": "???",
         "headerSubtitle": "Startup Company",
         "subheaderTitle": "???",
-        "subheaderSubtitle": "Charlie-Alpha-Romeo-Tango",
+        "subheaderSubtitle": "Charlie-Sierra-Tango-Juliett",
       },
       "options":{
         "eventsMarkdownPerMission": true
