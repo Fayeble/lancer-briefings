@@ -128,14 +128,14 @@ export default {
           "frame": "Sagarmatha",
           "mech": "ZWEIHÄNDER"
         },
-		    /*{
+		    {
           "callsign": "Tarot",
           "alias": "Mortimer Lindseth",
           "code": "VKRV3B",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "FØRECAST"
-        },*/
+        },
 		    {
           "callsign": "Spirit",
           "alias": "Spirit",
@@ -144,14 +144,14 @@ export default {
           "frame": "Everest",
           "mech": "ROKO"
         },
-		    /*{
+		    {
           "callsign": "Recoil",
           "alias": "Aiko Fuyukayo",
           "code": "2VFEXU",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "BUYAN-M"
-        },*/
+        },
 		    {
           "callsign": "Tsuchinoko",
           "alias": "[Classified]",
@@ -160,7 +160,7 @@ export default {
           "frame": "Everest",
           "mech": "STEADY ED"
         },
-		    /*{
+		    {
           "callsign": "Clown",
           "alias": "Evelyn Mint",
           "code": "4TUHB4",
@@ -175,7 +175,7 @@ export default {
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "BIG MECH"
-        },*/
+        },
 		    {
           "callsign": "Jestie",
           "alias": "Sylvie",
@@ -184,7 +184,7 @@ export default {
           "frame": "Everest",
           "mech": "PEQUOD"
         },
-		    /*{
+		    {
           "callsign": "Atlas",
           "alias": "Dante Cavazos",
           "code": "BDGOFX",
@@ -199,7 +199,15 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "RED RUSH"
-        },*/
+        },
+        {
+          "callsign": "Tag",
+          "alias": "Linnéa Aaberg",
+          "code": "Q72INL",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "BRIDGES"
+        },
       ],
       "header": {
         "planet": "Farivius",
