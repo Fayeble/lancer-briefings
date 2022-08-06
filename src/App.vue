@@ -116,6 +116,11 @@ export default {
         {
           "slug": "202",
           "name": "Radio-Static",
+          "status": "success"
+        },
+        {
+          "slug": "211",
+          "name": "Deserted-Distress",
           "status": "start"
         },
       ],
