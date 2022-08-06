@@ -148,7 +148,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "ROKO"
-        },
+        },*/
 		    {
           "callsign": "Recoil",
           "alias": "Aiko Fuyukayo",
@@ -157,7 +157,7 @@ export default {
           "frame": "Everest",
           "mech": "BUYAN-M"
         },
-        {
+        /*{
           "callsign": "Tsuchinoko",
           "alias": "[Classified]",
           "code": "3WDHYE",
