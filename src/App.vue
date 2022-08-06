@@ -141,7 +141,7 @@ export default {
           "frame": "Everest",
           "mech": "FØRECAST"
         },
-		    {
+		    /*{
           "callsign": "Spirit",
           "alias": "Spirit",
           "code": "NZABJC",
@@ -157,7 +157,7 @@ export default {
           "frame": "Everest",
           "mech": "BUYAN-M"
         },
-		    {
+        {
           "callsign": "Tsuchinoko",
           "alias": "[Classified]",
           "code": "3WDHYE",
@@ -212,7 +212,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "BRIDGES"
-        },
+        },*/
       ],
       "header": {
         "planet": "Farivius",
@@ -223,7 +223,7 @@ export default {
         "headerTitle": "???",
         "headerSubtitle": "Startup Company",
         "subheaderTitle": "???",
-        "subheaderSubtitle": "Charlie-Sierra-Tango-Juliett",
+        "subheaderSubtitle": "Charlie-Tango",
       },
       "options":{
         "eventsMarkdownPerMission": true
