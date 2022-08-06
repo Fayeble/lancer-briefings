@@ -223,7 +223,7 @@ export default {
         "headerTitle": "???",
         "headerSubtitle": "Startup Company",
         "subheaderTitle": "???",
-        "subheaderSubtitle": "Charlie-Tango",
+        "subheaderSubtitle": "Charlie-Romeo-Tango",
       },
       "options":{
         "eventsMarkdownPerMission": true
