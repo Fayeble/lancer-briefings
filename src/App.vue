@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "211",
+      "mission_slug": "203",
       "current_md": "",
       "events": "",
       "missions": [
@@ -126,7 +126,7 @@ export default {
         {
           "slug": "211",
           "name": "Deserted-Distress",
-          "status": "in-progress"
+          "status": "success"
         },
       ],
       "pilots": [
@@ -153,7 +153,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "ROKO"
-        },*/
+        },
 		    {
           "callsign": "Recoil",
           "alias": "Aiko Fuyukayo",
@@ -161,7 +161,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "BUYAN-M"
-        },
+        },*/
         {
           "callsign": "Tsuchinoko",
           "alias": "[Classified]",
@@ -228,7 +228,7 @@ export default {
         "headerTitle": "???",
         "headerSubtitle": "Startup Company",
         "subheaderTitle": "???",
-        "subheaderSubtitle": "Juliett-Romeo-Sierra-Tango-Tango",
+        "subheaderSubtitle": "Juliett-Sierra-Tango-Tango",
       },
       "options":{
         "eventsMarkdownPerMission": true
