@@ -119,13 +119,18 @@ export default {
           "status": "success"
         },
         {
+          "slug": "203",
+          "name": "Anti-Air-Assault",
+          "status": "start"
+        },
+        {
           "slug": "211",
           "name": "Deserted-Distress",
-          "status": "start"
+          "status": "in-progress"
         },
       ],
       "pilots": [
-        {
+/*{
           "callsign": "Claymore",
           "alias": "Lill Lefebvre",
           "code": "97292V",
@@ -141,7 +146,7 @@ export default {
           "frame": "Everest",
           "mech": "FØRECAST"
         },
-		    /*{
+		    {
           "callsign": "Spirit",
           "alias": "Spirit",
           "code": "NZABJC",
@@ -157,7 +162,7 @@ export default {
           "frame": "Everest",
           "mech": "BUYAN-M"
         },
-        /*{
+        {
           "callsign": "Tsuchinoko",
           "alias": "[Classified]",
           "code": "3WDHYE",
@@ -165,7 +170,7 @@ export default {
           "frame": "Everest",
           "mech": "STEADY ED"
         },
-		    {
+		    /*{
           "callsign": "Clown",
           "alias": "Evelyn Mint",
           "code": "4TUHB4",
@@ -180,7 +185,7 @@ export default {
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "BIG MECH"
-        },
+        },*/
 		    {
           "callsign": "Jestie",
           "alias": "Sylvie",
@@ -189,14 +194,14 @@ export default {
           "frame": "Everest",
           "mech": "PEQUOD"
         },
-		    {
+		    /*{
           "callsign": "Atlas",
           "alias": "Dante Cavazos",
           "code": "BDGOFX",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "GAEA"
-        },
+        },*/
 		    {
           "callsign": "Slick",
           "alias": "Chance",
@@ -212,7 +217,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "BRIDGES"
-        },*/
+        },
       ],
       "header": {
         "planet": "Farivius",
@@ -223,7 +228,7 @@ export default {
         "headerTitle": "???",
         "headerSubtitle": "Startup Company",
         "subheaderTitle": "???",
-        "subheaderSubtitle": "Charlie-Romeo-Tango",
+        "subheaderSubtitle": "Juliett-Romeo-Sierra-Tango-Tango",
       },
       "options":{
         "eventsMarkdownPerMission": true
