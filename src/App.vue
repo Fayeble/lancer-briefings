@@ -145,7 +145,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "FØRECAST"
-        },
+        },*/
 		    {
           "callsign": "Spirit",
           "alias": "Spirit",
@@ -154,14 +154,14 @@ export default {
           "frame": "Everest",
           "mech": "ROKO"
         },
-		    {
+		    /*{
           "callsign": "Recoil",
           "alias": "Aiko Fuyukayo",
           "code": "2VFEXU",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "BUYAN-M"
-        },*/
+        },
         {
           "callsign": "Tsuchinoko",
           "alias": "[Classified]",
@@ -170,7 +170,7 @@ export default {
           "frame": "Everest",
           "mech": "STEADY ED"
         },
-		    /*{
+		    {
           "callsign": "Clown",
           "alias": "Evelyn Mint",
           "code": "4TUHB4",
@@ -185,7 +185,7 @@ export default {
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "BIG MECH"
-        },*/
+        },
 		    {
           "callsign": "Jestie",
           "alias": "Sylvie",
@@ -194,7 +194,7 @@ export default {
           "frame": "Everest",
           "mech": "PEQUOD"
         },
-		    /*{
+		    {
           "callsign": "Atlas",
           "alias": "Dante Cavazos",
           "code": "BDGOFX",
@@ -228,7 +228,7 @@ export default {
         "headerTitle": "???",
         "headerSubtitle": "Startup Company",
         "subheaderTitle": "???",
-        "subheaderSubtitle": "Juliett-Sierra-Tango-Tango",
+        "subheaderSubtitle": "Sierra-Tango-Sierra",
       },
       "options":{
         "eventsMarkdownPerMission": true
