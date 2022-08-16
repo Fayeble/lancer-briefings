@@ -130,7 +130,7 @@ export default {
         },
       ],
       "pilots": [
-/*{
+        {
           "callsign": "Claymore",
           "alias": "Lill Lefebvre",
           "code": "97292V",
@@ -145,7 +145,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "FØRECAST"
-        },*/
+        },
 		    {
           "callsign": "Spirit",
           "alias": "Spirit",
@@ -154,7 +154,7 @@ export default {
           "frame": "Everest",
           "mech": "ROKO"
         },
-		    /*{
+		    {
           "callsign": "Recoil",
           "alias": "Aiko Fuyukayo",
           "code": "2VFEXU",
@@ -201,7 +201,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "GAEA"
-        },*/
+        },
 		    {
           "callsign": "Slick",
           "alias": "Chance",
