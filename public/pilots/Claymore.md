@@ -23,7 +23,7 @@ Incident: 584E-52O6-B
 Interrogation of an Individual potentially involved with Planet [DATA EXPUNGED]'s current condition.  
 Officer [Classified] and Field Commander [Classified] Interrogating Subject Lill Lefebvre [Redacted].
 
-{[Collapsed]}
+{[Collapsed. Reason: "Privacy."]}
 
 *sigh* "Well, if-"
 
@@ -39,4 +39,8 @@ She's a dangerous one. But, it should be fine for now.
 We'll keep an eye on her. As long as she continues as she is, she'll either no longer be a problem,  
 or depending on what happens, will become a very dangerous threat.  
 But for now? Let her grieve.
+
+---
+
+{[Collapsed. Reason: "It's just all redacted stuff."]}
 
