@@ -149,7 +149,7 @@ export default {
 		    {
           "callsign": "Spirit",
           "alias": "Spirit",
-          "code": "**CONTROLLER/STRIKER**  Hacking, set-up, and picking off.  Struggles without team support.",
+          "code": "CONTROLLER/STRIKER</br>Hacking, set-up, and picking off.</br>Struggles without team support.",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "ROKO"
