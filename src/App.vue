@@ -165,7 +165,7 @@ export default {
         {
           "callsign": "Tsuchinoko",
           "alias": "[Classified]",
-          "code": "3WDHYE",
+          "code": "[CQB] Striking from mid to close range, quick and hard. Struggles with long-range power. Rarely appears physically.",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "STEADY ED"
@@ -213,7 +213,7 @@ export default {
         {
           "callsign": "Tag",
           "alias": "Linnéa Aaberg",
-          "code": "Q72INL",
+          "code": "[SUPPORT/ARTILLERY]",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "BRIDGES"
