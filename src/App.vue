@@ -133,7 +133,7 @@ export default {
         {
           "callsign": "Claymore",
           "alias": "Lill Lefebvre",
-          "code": "97292V",
+          "code": "[DEFENDER/STRIKER] Defending, disruption, and melee combat. Struggles with overextension and cooperation. Does anything to reduce harm to allies.",
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "ZWEIHÄNDER"
