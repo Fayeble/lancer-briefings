@@ -2,4 +2,4 @@ Mortimer Lindseth is a renowned name among a few different solar systems...or ra
 
 Unfortunately, her jobs were halted when her mech was involved in a crash. The people she crashed with reworked her mech to be more suited for combat, and since then she's been working her third job.
 
-{[Collapsed. Reason: "Interesting, if ultimately unnecessary to reveal."]}
+{[Collapsed. Reason: "A personal addition, perhaps embarrassing? I'll avoid adding for now."]}
