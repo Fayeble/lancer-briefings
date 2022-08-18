@@ -149,7 +149,7 @@ export default {
 		    {
           "callsign": "Spirit",
           "alias": "Spirit",
-          "code": "Support hacking and objective completion, generally struggles to take on enemies one-on-one, but incredibly competent at setting up enemies for someone else to kill, or 'vulturing' kills that someone else couldn't confirm.",
+          "code": "**CONTROLLER/STRIKER**  Hacking, set-up, and picking off.  Struggles without team support.",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "ROKO"
