@@ -141,7 +141,7 @@ export default {
 		    {
           "callsign": "Tarot",
           "alias": "Mortimer Lindseth",
-          "code": "VKRV3B",
+          "code": "[STRIKER/CONTROLLER] Debuffing, Empowering, and mid-range. Struggles alone and hates action. Fast, social, magical, and emotional.",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "FØRECAST"
