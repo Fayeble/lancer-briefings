@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "203",
+      "mission_slug": "001",
       "current_md": "",
       "events": "",
       "missions": [
@@ -111,7 +111,7 @@ export default {
         {
           "slug": "201",
           "name": "Alpine-Hotline",
-          "status": "partial-success"
+          "status": "success"
         },
         {
           "slug": "202",
@@ -121,12 +121,17 @@ export default {
         {
           "slug": "203",
           "name": "Anti-Air-Assault",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "211",
           "name": "Deserted-Distress",
           "status": "success"
+        },
+        {
+          "slug": "001",
+          "name": "Treasure-Tussle",
+          "status": "start"
         },
       ],
       "pilots": [
@@ -146,7 +151,7 @@ export default {
           "frame": "Everest",
           "mech": "FØRECAST"
         },
-		    {
+		    /*{
           "callsign": "Spirit",
           "alias": "Spirit",
           "code": "[CONTROLLER/STRIKER] Hacking, set-up, and picking off. Struggles without team support. Is unable to be a pilot.",
@@ -209,7 +214,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "RED RUSH"
-        },
+        },*/
         {
           "callsign": "Tag",
           "alias": "Linnéa Aaberg",
@@ -228,7 +233,7 @@ export default {
         "headerTitle": "???",
         "headerSubtitle": "Startup Company",
         "subheaderTitle": "???",
-        "subheaderSubtitle": "Sierra-Tango-Sierra",
+        "subheaderSubtitle": "The Shards of Pentacle",
       },
       "options":{
         "eventsMarkdownPerMission": true
