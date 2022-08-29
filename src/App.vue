@@ -232,7 +232,7 @@ export default {
         "ring": "Xev'es-Outer",
         "headerTitle": "SHARD",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Fungal Discoveries",
+        "subheaderTitle": "Fungal Discoveries ",
         "subheaderSubtitle": "The Shards of Pentacle",
       },
       "options":{
