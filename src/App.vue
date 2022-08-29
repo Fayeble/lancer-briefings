@@ -218,7 +218,7 @@ export default {
         {
           "callsign": "Tag",
           "alias": "Linnéa Aaberg",
-          "code": "[SUPPORT/ARTILLERY]",
+          "code": "[ARTILLERY] Long range precision and damage, staying in cover. Struggles with loading and overcharging. A little too optimistic.",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "BRIDGES"
