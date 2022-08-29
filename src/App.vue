@@ -94,37 +94,37 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "101",
+          "slug": "011",
           "name": "Dreams-of-Reclamation",
           "status": "success"
         },
         {
-          "slug": "102",
+          "slug": "012",
           "name": "Rustic-Ways",
           "status": "success"
         },
         {
-          "slug": "103",
+          "slug": "013",
           "name": "Scrap-Heap",
           "status": "success"
         },
         {
-          "slug": "201",
+          "slug": "021",
           "name": "Alpine-Hotline",
           "status": "success"
         },
         {
-          "slug": "202",
+          "slug": "022",
           "name": "Radio-Static",
           "status": "success"
         },
         {
-          "slug": "203",
+          "slug": "023",
           "name": "Anti-Air-Assault",
           "status": "success"
         },
         {
-          "slug": "211",
+          "slug": "031",
           "name": "Deserted-Distress",
           "status": "success"
         },
