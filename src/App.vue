@@ -230,9 +230,9 @@ export default {
         "system": "Xev'es",
         "gate": "Xev'es-Vortex",
         "ring": "Xev'es-Outer",
-        "headerTitle": "???",
-        "headerSubtitle": "Startup Company",
-        "subheaderTitle": "???",
+        "headerTitle": "SHARD",
+        "headerSubtitle": "Mercenary Company",
+        "subheaderTitle": "Underwater Treasure Hunt",
         "subheaderSubtitle": "The Shards of Pentacle",
       },
       "options":{
