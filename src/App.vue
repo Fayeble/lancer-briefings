@@ -145,14 +145,14 @@ export default {
         },
       ],
       "pilots": [
-        {
+        /*{
           "callsign": "Claymore",
           "alias": "Lill Lefebvre",
           "code": "[DEFENDER/STRIKER] Defending, disruption, and melee combat. Struggles with overextension and synergy. Stops harm to allies.",
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "ZWEIHÄNDER"
-        },
+        },*/
 		    {
           "callsign": "Tarot",
           "alias": "Mortimer Lindseth",
@@ -161,7 +161,7 @@ export default {
           "frame": "Everest",
           "mech": "FØRECAST"
         },
-		    {
+		    /*{
           "callsign": "Spirit",
           "alias": "Spirit",
           "code": "[CONTROLLER/STRIKER] Hacking, set-up, and picking off. Struggles without team support. Is unable to be a pilot.",
@@ -169,7 +169,7 @@ export default {
           "frame": "Everest",
           "mech": "ROKO"
         },
-		    /*{
+		    {
           "callsign": "Recoil",
           "alias": "Aiko Fuyukayo",
           "code": "2VFEXU",
@@ -192,7 +192,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "CARNIVAL GAMES"
-        },
+        },*/
 		    {
           "callsign": "The Wall",
           "alias": "Phil Goodman",
@@ -209,7 +209,7 @@ export default {
           "frame": "Everest",
           "mech": "PEQUOD"
         },
-		    {
+		    /*{
           "callsign": "Atlas",
           "alias": "Dante Cavazos",
           "code": "BDGOFX",
@@ -224,7 +224,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "RED RUSH"
-        },*/
+        },
         {
           "callsign": "Tag",
           "alias": "Linnéa Aaberg",
@@ -232,7 +232,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "BRIDGES"
-        },
+        },*/
       ],
       "header": {
         "planet": "Farivius",
@@ -243,7 +243,7 @@ export default {
         "headerTitle": "SHARD",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Fungal Discoveries ",
-        "subheaderSubtitle": "The Shards of Pentacle",
+        "subheaderSubtitle": "The Shards TTJ",
       },
       "options":{
         "eventsMarkdownPerMission": true
