@@ -136,6 +136,11 @@ export default {
         {
           "slug": "101",
           "name": "Boat-Business",
+          "status": "success"
+        },
+        {
+          "slug": "002",
+          "name": "Accelerating-Action",
           "status": "start"
         },
       ],
