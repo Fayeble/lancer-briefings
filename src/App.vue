@@ -224,7 +224,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "RED RUSH"
-        },
+        },*/
         {
           "callsign": "Tag",
           "alias": "Linnéa Aaberg",
@@ -232,7 +232,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "BRIDGES"
-        },*/
+        },
       ],
       "header": {
         "planet": "Farivius",
