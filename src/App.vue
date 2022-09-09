@@ -248,7 +248,7 @@ export default {
         "headerTitle": "SHARD",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Fungal Discoveries ",
-        "subheaderSubtitle": "The Shards TTJ",
+        "subheaderSubtitle": "The Shards CSS",
       },
       "options":{
         "eventsMarkdownPerMission": true
