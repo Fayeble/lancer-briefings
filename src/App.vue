@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "003",
       "current_md": "",
       "events": "",
       "missions": [
@@ -141,27 +141,32 @@ export default {
         {
           "slug": "002",
           "name": "Accelerating-Action",
+          "status": "success"
+        },
+        {
+          "slug": "003",
+          "name": "RA-Wrestle",
           "status": "start"
         },
       ],
       "pilots": [
-        /*{
+        {
           "callsign": "Claymore",
           "alias": "Lill Lefebvre",
           "code": "[DEFENDER/STRIKER] Defending, disruption, and melee combat. Struggles with overextension and synergy. Stops harm to allies.",
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "ZWEIHÄNDER"
-        },*/
-		    {
+        },
+		    /*{
           "callsign": "Tarot",
           "alias": "Mortimer Lindseth",
           "code": "[STRIKER/CONTROLLER] Debuffing, empowering, and mid-range. Struggles alone and hates action. Fast, social, magical, and emotional.",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "FØRECAST"
-        },
-		    /*{
+        },*/
+		    {
           "callsign": "Spirit",
           "alias": "Spirit",
           "code": "[CONTROLLER/STRIKER] Hacking, set-up, and picking off. Struggles without team support. Is unable to be a pilot.",
@@ -169,7 +174,7 @@ export default {
           "frame": "Everest",
           "mech": "ROKO"
         },
-		    {
+		    /*{
           "callsign": "Recoil",
           "alias": "Aiko Fuyukayo",
           "code": "2VFEXU",
@@ -192,7 +197,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "CARNIVAL GAMES"
-        },*/
+        },
 		    {
           "callsign": "The Wall",
           "alias": "Phil Goodman",
@@ -216,7 +221,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "GAEA"
-        },
+        },*/
 		    {
           "callsign": "Slick",
           "alias": "Chance",
@@ -224,15 +229,15 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "RED RUSH"
-        },*/
-        {
+        },
+        /*{
           "callsign": "Tag",
           "alias": "Linnéa Aaberg",
           "code": "[ARTILLERY] Long range precision and damage, staying in cover. Struggles with loading and overcharging. A little too optimistic.",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "BRIDGES"
-        },
+        },*/
       ],
       "header": {
         "planet": "Farivius",
