@@ -146,11 +146,16 @@ export default {
         {
           "slug": "003",
           "name": "RA-Wrestle",
+          "status": "success"
+        },
+        {
+          "slug": "102",
+          "name": "Pioneer-Progress",
           "status": "start"
         },
       ],
       "pilots": [
-        {
+        /*{
           "callsign": "Claymore",
           "alias": "Lill Lefebvre",
           "code": "[DEFENDER/STRIKER] Defending, disruption, and melee combat. Struggles with overextension and synergy. Stops harm to allies.",
@@ -158,14 +163,14 @@ export default {
           "frame": "Sagarmatha",
           "mech": "ZWEIHÄNDER"
         },
-		    /*{
+		    {
           "callsign": "Tarot",
           "alias": "Mortimer Lindseth",
           "code": "[STRIKER/CONTROLLER] Debuffing, empowering, and mid-range. Struggles alone and hates action. Fast, social, magical, and emotional.",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "FØRECAST"
-        },*/
+        },
 		    {
           "callsign": "Spirit",
           "alias": "Spirit",
@@ -173,8 +178,8 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "ROKO"
-        },
-		    /*{
+        },*/
+		    {
           "callsign": "Recoil",
           "alias": "Aiko Fuyukayo",
           "code": "2VFEXU",
@@ -182,7 +187,7 @@ export default {
           "frame": "Everest",
           "mech": "BUYAN-M"
         },
-        {
+        /*{
           "callsign": "Tsuchinoko",
           "alias": "[Classified]",
           "code": "[CQB] Striking from mid to close range, quick and hard. Struggles with long-range power. Rarely appears physically.",
@@ -213,15 +218,15 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "PEQUOD"
-        },
-		    /*{
+        },*/
+		    {
           "callsign": "Atlas",
           "alias": "Dante Cavazos",
           "code": "BDGOFX",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "GAEA"
-        },*/
+        },
 		    {
           "callsign": "Slick",
           "alias": "Chance",
@@ -230,14 +235,14 @@ export default {
           "frame": "Everest",
           "mech": "RED RUSH"
         },
-        /*{
+        {
           "callsign": "Tag",
           "alias": "Linnéa Aaberg",
           "code": "[ARTILLERY] Long range precision and damage, staying in cover. Struggles with loading and overcharging. A little too optimistic.",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "BRIDGES"
-        },*/
+        },
       ],
       "header": {
         "planet": "Farivius",
@@ -248,7 +253,7 @@ export default {
         "headerTitle": "SHARD",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Fungal Discoveries ",
-        "subheaderSubtitle": "The Shards CSS",
+        "subheaderSubtitle": "The Shards of TSAR",
       },
       "options":{
         "eventsMarkdownPerMission": true
