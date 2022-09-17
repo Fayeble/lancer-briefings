@@ -16,11 +16,43 @@
 		"subheaderSubtitle": "The Shards of TSAR"
 	},
 	"pilotSpecialInfo": {
-		"APOLLO": {
+		"ATLAS": {
 			"age": "32u",
 			"pob": "Evergreen"
 		},
-		"RAI-DEN": {
+		"CLAYMORE": {
+			"age": "48u",
+			"pob": "Gaia"
+		},
+		"JESTIE": {
+			"age": "32u",
+			"pob": "Evergreen"
+		},
+		"RECOIL": {
+			"age": "48u",
+			"pob": "Gaia"
+		},
+		"SLICK": {
+			"age": "32u",
+			"pob": "Evergreen"
+		},
+		"SPIRIT": {
+			"age": "48u",
+			"pob": "Gaia"
+		},
+		"TAG": {
+			"age": "32u",
+			"pob": "Evergreen"
+		},
+		"TAROT": {
+			"age": "48u",
+			"pob": "Gaia"
+		},
+		"THE WALL": {
+			"age": "32u",
+			"pob": "Evergreen"
+		},
+		"TSUCHINOKO": {
 			"age": "48u",
 			"pob": "Gaia"
 		}
