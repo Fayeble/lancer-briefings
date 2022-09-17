@@ -2,18 +2,18 @@
 	"initialSlug": "001",
 	"planetPath": "/planet.webm",
 	"animate": true,
-  "defaultTitle": "MSMC |",
+  "defaultTitle": "SHARD |",
   "icon": "/faction-logos/msmc.svg",
 	"header": {
-		"planet": "Hercynia",
+		"planet": "Farivius",
 		"year": "5014u",
-		"system": "Ardennes-3",
-		"gate": "Atlas-Quanokrim",
-		"ring": "Atlas-Line",
-		"headerTitle": "Mirrorsmoke",
+		"system": "Xev'es",
+		"gate": "Xev'es-Vortex",
+		"ring": "Xev'es-Outer",
+		"headerTitle": "SHARD",
 		"headerSubtitle": "Mercenary Company",
-		"subheaderTitle": "Crisis Response",
-		"subheaderSubtitle": "Delta-Echo-Echo-Zulu"
+		"subheaderTitle": "Fungal Discoveries",
+		"subheaderSubtitle": "The Shards of TSAR"
 	},
 	"pilotSpecialInfo": {
 		"APOLLO": {
