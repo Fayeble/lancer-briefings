@@ -1,0 +1,1 @@
+A member of what some would call a "religious cult", Sylvie is here to collect funds and maybe even new followers for her 'fayeth'.

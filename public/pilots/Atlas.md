@@ -1,0 +1,1 @@
+A pilot with an excessive bravado. He is convinced he is a better pilot than you, unless proven otherwise.

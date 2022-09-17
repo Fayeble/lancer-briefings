@@ -89,68 +89,171 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "102",
       "current_md": "",
       "events": "",
       "missions": [
         {
+          "slug": "011",
+          "name": "Dreams-of-Reclamation",
+          "status": "success"
+        },
+        {
+          "slug": "012",
+          "name": "Rustic-Ways",
+          "status": "success"
+        },
+        {
+          "slug": "013",
+          "name": "Scrap-Heap",
+          "status": "success"
+        },
+        {
+          "slug": "021",
+          "name": "Alpine-Hotline",
+          "status": "success"
+        },
+        {
+          "slug": "022",
+          "name": "Radio-Static",
+          "status": "success"
+        },
+        {
+          "slug": "023",
+          "name": "Anti-Air-Assault",
+          "status": "success"
+        },
+        {
+          "slug": "031",
+          "name": "Deserted-Distress",
+          "status": "success"
+        },
+        {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Treasure-Tussle",
+          "status": "success"
+        },
+        {
+          "slug": "101",
+          "name": "Boat-Business",
+          "status": "success"
+        },
+        {
+          "slug": "002",
+          "name": "Accelerating-Action",
+          "status": "success"
+        },
+        {
+          "slug": "003",
+          "name": "RA-Wrestle",
+          "status": "success"
+        },
+        {
+          "slug": "102",
+          "name": "Pioneer-Progress",
           "status": "start"
         },
       ],
       "pilots": [
-        {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+        /*{
+          "callsign": "Claymore",
+          "alias": "Lill Lefebvre",
+          "code": "[DEFENDER/STRIKER] Defending, disruption, and melee combat. Struggles with overextension and synergy. Stops harm to allies.",
+          "corpro": "GMS",
+          "frame": "Sagarmatha",
+          "mech": "ZWEIHÄNDER"
+        },
+		    {
+          "callsign": "Tarot",
+          "alias": "Mortimer Lindseth",
+          "code": "[STRIKER/CONTROLLER] Debuffing, empowering, and mid-range. Struggles alone and hates action. Fast, social, magical, and emotional.",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "mech": "FØRECAST"
+        },
+		    {
+          "callsign": "Spirit",
+          "alias": "Spirit",
+          "code": "[CONTROLLER/STRIKER] Hacking, set-up, and picking off. Struggles without team support. Is unable to be a pilot.",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "ROKO"
+        },*/
+		    {
+          "callsign": "Recoil",
+          "alias": "Aiko Fuyukayo",
+          "code": "2VFEXU",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "BUYAN-M"
+        },
+        /*{
+          "callsign": "Tsuchinoko",
+          "alias": "[Classified]",
+          "code": "[CQB] Striking from mid to close range, quick and hard. Struggles with long-range power. Rarely appears physically.",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "STEADY ED"
+        },
+		    {
+          "callsign": "Clown",
+          "alias": "Evelyn Mint",
+          "code": "4TUHB4",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "CARNIVAL GAMES"
+        },
+		    {
+          "callsign": "The Wall",
+          "alias": "Phil Goodman",
+          "code": "GCUDTH",
+          "corpro": "GMS",
+          "frame": "Sagarmatha",
+          "mech": "BIG MECH"
+        },
+		    {
+          "callsign": "Jestie",
+          "alias": "Sylvie",
+          "code": "ZQIOU8",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "PEQUOD"
+        },*/
+		    {
+          "callsign": "Atlas",
+          "alias": "Dante Cavazos",
+          "code": "BDGOFX",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "GAEA"
+        },
+		    {
+          "callsign": "Slick",
+          "alias": "Chance",
+          "code": "K6L773",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "RED RUSH"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "callsign": "Tag",
+          "alias": "Linnéa Aaberg",
+          "code": "[ARTILLERY] Long range precision and damage, staying in cover. Struggles with loading and overcharging. A little too optimistic.",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
-        },
-        {
-          "callsign": "Starboard",
-          "alias": "Maria",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Scarlet Judicator"
-        },
-        {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
-        },
-        {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "mech": "BRIDGES"
         },
       ],
       "header": {
-        "planet": "Hercynia",
+        "planet": "Farivius",
         "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
+        "system": "Xev'es",
+        "gate": "Xev'es-Vortex",
+        "ring": "Xev'es-Outer",
+        "headerTitle": "SHARD",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderTitle": "Fungal Discoveries ",
+        "subheaderSubtitle": "The Shards of TSAR",
       },
       "options":{
         "eventsMarkdownPerMission": true

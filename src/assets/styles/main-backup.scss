@@ -5,8 +5,8 @@
 /*-------------------------------------*/
 
 //Primary Colors
-$primary: rgba(212, 175, 55, 1);
-$secondary: rgba(110, 110, 130, 0.8);
+$primary: rgba(125, 187, 187, 1);
+$secondary: rgba(23, 29, 30, 0.8);
 $highlight-hover: rgba(255, 255, 255, 0.3);
 $highlight-active: rgba(255, 255, 255, 0.1);
 
@@ -20,15 +20,14 @@ $location-separator: rgba(255, 255, 255, 0.24);
 //Mission Pane
 $text-mission-title: rgba(255, 255, 255, 0.67);
 $text-mission-status: rgba(255, 255, 255, 0.87);
-$mission-start: rgba(150, 150, 190, 1);
+$mission-start: rgba(109, 109, 109, 1);
 $mission-partial: rgba(88, 34, 102, 1);
 $mission-success: rgba(34, 102, 98, 1);
 $mission-failure: rgba(176, 45, 45, 1);
-$mission-in-progress: rgb(180, 108, 0);
 
 //Pilot Roster Text
 $text-pilot-header: rgba(255, 255, 255, 0.67);
-$text-pilot-value: rgba(255, 228, 140, 0.87);
+$text-pilot-value: rgba(255, 255, 255, 0.87);
 $text-pilot-code: rgba(255, 255, 255, 0.47);
 
 //Markdown (Current Assignment, Events Log, Pilot Biography)
@@ -364,7 +363,7 @@ section .section-header {
 }
 
 .mission-list-container {
-  height: 200px;
+  height: 180px;
   overflow-y: scroll;
 }
 
@@ -471,10 +470,6 @@ section .section-header {
 
   .failure {
     background-color: $mission-failure;
-  }
-
-  .in-progress {
-    background-color: $mission-in-progress;
   }
 }
 
