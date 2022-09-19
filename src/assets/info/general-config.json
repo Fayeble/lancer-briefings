@@ -2,8 +2,8 @@
 	"initialSlug": "001",
 	"planetPath": "/planet.webm",
 	"animate": true,
-  "defaultTitle": "SHARD |",
-  "icon": "/faction-logos/shard.svg",
+  	"defaultTitle": "SHARD |",
+  	"icon": "/faction-logos/shard.svg",
 	"header": {
 		"planet": "Farivius",
 		"year": "5014u",
