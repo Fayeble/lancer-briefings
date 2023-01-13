@@ -33,8 +33,7 @@
 			"pob": "Gaia"
 		},
 		"SLICK": {
-			"age": "32u",
-			"pob": "Evergreen"
+			"age": "30u"
 		},
 		"TAG": {
 			"age": "32u",
@@ -48,5 +47,9 @@
 			"age": "32u",
 			"pob": "Evergreen"
 		},
+		"TSUCHINOKO": {
+			"age": "[REDACTED]",
+			"pob": "[REDACTED}"
+		}
 	}
 }
