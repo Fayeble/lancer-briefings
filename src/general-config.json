@@ -16,43 +16,11 @@
 		"subheaderSubtitle": "The Shards of TSAR"
 	},
 	"pilotSpecialInfo": {
-		"ATLAS": {
+		"CLAIRVOYANT
 			"age": "32u",
 			"pob": "Evergreen"
 		},
-		"CLAYMORE": {
-			"age": "20u to 30u",
-			"pob": "[Destroyed]"
-		},
-		"JESTIE": {
-			"age": "32u",
-			"pob": "Evergreen"
-		},
-		"RECOIL": {
-			"age": "48u",
-			"pob": "Gaia"
-		},
-		"SLICK": {
-			"age": "32u",
-			"pob": "Evergreen"
-		},
-		"SPIRIT": {
-			"age": "48u",
-			"pob": "Gaia"
-		},
-		"TAG": {
-			"age": "32u",
-			"pob": "Evergreen"
-		},
-		"TAROT": {
-			"age": "22u",
-			"pob": "French Space Colony"
-		},
-		"THE WALL": {
-			"age": "32u",
-			"pob": "Evergreen"
-		},
-		"TSUCHINOKO": {
+		"GWISIN
 			"age": "48u",
 			"pob": "Gaia"
 		}
