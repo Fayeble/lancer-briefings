@@ -1,5 +1,5 @@
 {
-	"initialSlug": "105",
+	"initialSlug": "103",
 	"planetPath": "/planet.webm",
 	"animate": true,
   	"defaultTitle": "SHARD |",
@@ -16,40 +16,13 @@
 		"subheaderSubtitle": "The Shards of TSAR"
 	},
 	"pilotSpecialInfo": {
-		"ATLAS": {
-			"age": "22u",
-			"pob": "[Unknown]"
-		},
-		"CLAYMORE": {
-			"age": "20u to 30u",
-			"pob": "[Destroyed]"
-		},
-		"JESTIE": {
+		"CLAIRVOYANT
 			"age": "32u",
 			"pob": "Evergreen"
 		},
-		"RECOIL": {
+		"GWISIN
 			"age": "48u",
 			"pob": "Gaia"
-		},
-		"SLICK": {
-			"age": "30u"
-		},
-		"TAG": {
-			"age": "32u",
-			"pob": "Evergreen"
-		},
-		"TAROT": {
-			"age": "22u",
-			"pob": "French Space Colony"
-		},
-		"THE WALL": {
-			"age": "32u",
-			"pob": "Evergreen"
-		},
-		"TSUCHINOKO": {
-			"age": "[REDACTED]",
-			"pob": "[REDACTED]"
 		}
 	}
 }

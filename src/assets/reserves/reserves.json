@@ -7,33 +7,5 @@
 		"cost": "Cost",
 		"notes": "Notes",
 		"callsign": ""
-	},
-	{
-		"type": "Tactical",
-		"name": "Gungnir, Lævateinn, Mjölnir Reinforcements",
-		"description": "Once per mission, you may call in a 1 Structure/Stress NPC of these 3. They leave once losing either Structure or Stress.",
-		"label": "",
-		"cost": "Cost",
-		"notes": "Notes",
-		"callsign": ""
-	},
-	{
-		"type": "Tactical",
-		"name": "6 PC Reinforcements",
-		"description": "You may call in any PC to help you, including the GM's. They may drop within 2 range of any ally, and if they land on something, deal 5 AP damage to both.",
-		"label": "",
-		"cost": "Cost",
-		"notes": "Notes",
-		"callsign": ""
-	},
-	{
-		"type": "Resource",
-		"name": "Factory",
-		"description": "Once per mission, you can make a fitting reserve of choice. Tsuchinoko has priority pick.",
-		"label": "",
-		"cost": "Cost",
-		"notes": "Notes",
-		"callsign": ""
-	}
-	
+	},	
 ]
